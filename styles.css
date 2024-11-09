@@ -74,7 +74,7 @@ footer {
 }
 
 .side-image2 {
-    max-width: auto;
+    width: auto;
     max-height: 200px;
     border-radius: 8px;
 }
